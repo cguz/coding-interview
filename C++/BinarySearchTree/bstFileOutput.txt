@@ -1,0 +1,34 @@
+BSTNode at address: 00051E0340 at tree depth: 1 
+Left child: 0000000000 
+Right child: 00051E04C0 
+Parent: 00051E0040 
+ID: 145682 
+
+BSTNode at address: 00051E04C0 at tree depth: 2 
+Left child: 0000000000 
+Right child: 0000000000 
+Parent: 00051E0340 
+ID: 239876 
+Pricelistings: 
+Price: 20.300000 
+Shop: Colruyt 
+Price: 22.800000 
+Shop: Delhaize 
+Price: 21.700000 
+Shop: Carrefour 
+
+BSTNode at address: 00051E0040 at tree depth: 0 
+Left child: 00051E0340 
+Right child: 00051E0580 
+Parent: 0000000000 
+ID: 335497 
+
+BSTNode at address: 00051E0580 at tree depth: 1 
+Left child: 0000000000 
+Right child: 0000000000 
+Parent: 00051E0040 
+ID: 789654 
+Pricelistings: 
+Price: 12.700000 
+Shop: Carrefour 
+
